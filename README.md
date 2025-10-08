@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm K. Fakhrik</h1>
+<p align="center">
+  🚀 Passionate about tech, backend, and building useful stuff <br/>
+  💻 Currently learning Fullstack Web Development | Always exploring something new!
+</p>
 
-<!--
-**kfakhrik/kfakhrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a student & aspiring software developer
+- 💡 I love building things that solve real-world problems
+- 🌱 Currently exploring: `Laravel`, `REST APIs`, `MySQL`, `Docker`
+- ⚡ Fun fact: I always break things before I fix them 😅
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💻 Languages: PHP | JavaScript | Python | SQL  
+🌐 Web: HTML | CSS | Laravel | Bootstrap | Node.js  
+🛢️ Database: MySQL | SQLite  
+🔧 Tools: Git | GitHub | VS Code | Postman | XAMPP  

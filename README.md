@@ -1,24 +1,24 @@
 <h1 align="center">Hi there 👋, I'm K. Fakhrik</h1>
 <p align="center">
-  🚀 Passionate about tech, backend, and building useful stuff <br/>
-  💻 Currently learning Fullstack Web Development | Always exploring something new!
+  🚀 Saya tertarik di bidang Data Analisis stuff <br/>
+  💻 Saya selalu belajar tentang Data Analisis  | Selalu menjelajahi sesuatu yang baru!
 </p>
 
 ---
 
 ### 💼 About Me
 
-- 🎓 I'm a student & aspiring software developer
-- 💡 I love building things that solve real-world problems
-- 🌱 Currently exploring: `Laravel`, `REST APIs`, `MySQL`, `Docker`
-- ⚡ Fun fact: I always break things before I fix them 😅
+- 🎓 Saya Muhammad Fakhri Khairullah Mahasiswa Universitas Suryakancana dengan Konsentrasi Jurusan Teknik Informatika.
+- 💡 Saya memiliki keinginan dan motivasi dengan tujuan meningkatkan potensi dan dedikasi.
+- 🌱 Saya memiliki kompetensi teknis yang kuat dalam memberi dukungan analisis data, menyusun dokumen, dan memiliki pemahaman yang baik terhadap perangkat software.
+- ⚡ Saya juga aktif terlibat dibeberapa organisasi kampus.
 
 ---
 
 ### 🛠️ Tech Stack
 
 ```bash
-💻 Languages: PHP | JavaScript | Python | SQL  
-🌐 Web: HTML | CSS | Laravel | Bootstrap | Node.js  
-🛢️ Database: MySQL | SQLite  
-🔧 Tools: Git | GitHub | VS Code | Postman | XAMPP  
+💻 Bahasa: C++ | JavaScript | Python | SQL  
+🌐 Web: HTML | CSS 
+🛢️ Database: PostgreSQL
+🔧 Tools: Git | GitHub | VS Code  

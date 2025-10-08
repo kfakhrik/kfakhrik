@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm K. Fakhrik</h1>
 <p align="center">
-  🚀 Saya tertarik di bidang Data Analisis stuff <br/>
+  🚀 Saya tertarik di bidang Data Analisis <br/>
   💻 Saya selalu belajar tentang Data Analisis  | Selalu menjelajahi sesuatu yang baru!
 </p>
 
